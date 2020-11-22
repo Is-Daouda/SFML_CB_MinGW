@@ -1,8 +1,8 @@
 [![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
 
-# SFML Built for Code::Blocks 20.03 GCC MingGW 8.1.0 64 bit
+# SFML 2.5.1 Built for Code::Blocks 20.03 GCC MinGW 8.1.0 64 bit
 
-This SFML version was compiled for the GCC MingGW 8.1.0 64 bit compiler of 
+This SFML version was compiled for the GCC MinGW 64 bit compiler of 
 **[Code::Blocks 20.03](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download)**.
 
 ## Authors
@@ -23,7 +23,7 @@ This SFML version was compiled for the GCC MingGW 8.1.0 64 bit compiler of
 You can get the latest official release on [SFML's website](https://www.sfml-dev.org/download.php). You can also get the current development version from the [Git repository](https://github.com/SFML/SFML).
 
 ## Install
-- Download it and put it on **C:/ (C:/SFML_CB_MingGW)**.
+- Download it and put it on **C:/ (C:/SFML_CB_MinGW)**.
 - Download the [is::Engine](https://github.com/Is-Daouda/is-Engine) game engine and put it on **C: / (C:/is-Engine)**.
 - is::Engine is already **preconfigured** to use this version of SFML (no need to link SFML files).
 
