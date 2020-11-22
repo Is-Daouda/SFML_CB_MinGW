@@ -1,6 +1,6 @@
 [![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
 
-# SFML 2.5.1 Built for Code::Blocks 20.03 GCC MinGW 8.1.0 64 bit
+# SFML 2.5.1 for Code::Blocks 20.03 GCC MinGW 8.1.0 64 bit
 
 This SFML version was compiled for the GCC MinGW 64 bit compiler of 
 **[Code::Blocks 20.03](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download)**.
