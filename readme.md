@@ -7,7 +7,7 @@ This SFML version was compiled for the GCC MinGW 64 bit compiler of
 
 ## Install
 - Download it and put it on **C:/ (C:/SFML_CB_MinGW)**.
-- Download the [is::Engine](https://github.com/Is-Daouda/is-Engine) game engine and put it on **C: / (C:/is-Engine)**.
+- Download the [is::Engine](https://github.com/Is-Daouda/is-Engine) game engine and put it on **C:/ (C:/is-Engine)**.
 - is::Engine is already **preconfigured** to use this version of SFML (no need to link SFML files).
 
 ## Authors
